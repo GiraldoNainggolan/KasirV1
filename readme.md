@@ -84,7 +84,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://i.imgur.com/example.png" alt="screenshot" />
+  <img src="https://example.com" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
@@ -189,8 +189,8 @@ Clone the project
 
 ```bash
 username dan password
-Username: presiden
-Password: 123
+username: ada@gmail.com 
+passsword: 123
 ```
 
 <!-- Roadmap -->
