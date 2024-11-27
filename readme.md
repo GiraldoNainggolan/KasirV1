@@ -84,7 +84,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="images/screenshot.png" alt="Gambar Tidak Ditemukan" style="width: 300px; height: auto;">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/028/578/463/small_2x/browser-window-white-website-mockup-internet-blank-page-isolated-desktop-browser-screen-network-website-template-simple-design-light-ui-of-computer-web-toolbar-eps-10-vector.jpg" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
