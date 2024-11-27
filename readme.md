@@ -84,7 +84,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="./assets/LandingPage.png" alt="screenshot" />
+  <img src="https://i.imgur.com/example.png" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
