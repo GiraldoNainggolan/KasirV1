@@ -84,7 +84,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://example.com" alt="screenshot" />
+  <img src="/othneildrew/Best-README-Template/raw/main/images/screenshot.png" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
