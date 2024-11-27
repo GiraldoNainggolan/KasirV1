@@ -84,7 +84,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="/othneildrew/Best-README-Template/raw/main/images/screenshot.png" alt="screenshot" />
+  <img src="images/screenshot.png" alt="Gambar Tidak Ditemukan" style="width: 300px; height: auto;">
 </div>
 
 <!-- TechStack -->
